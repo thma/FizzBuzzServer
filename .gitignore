@@ -44,7 +44,6 @@ tags
 .haskell-ghc-mod.json
 
 # VS
-.vscode/
 
 # Emacs
 *#
